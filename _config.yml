@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Herb Dool
+tagline:          'A site for me'
+description:      'Testing github and jekyll.'
+url:              http://herbdool.github.io
+
+author:
+  name:           'Herb Dool'
+  url:            https://github.com/herbdool
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/herbdool/herbdool.github.com
