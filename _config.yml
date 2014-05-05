@@ -26,29 +26,20 @@ github:
 # Prose
 prose:
   rooturl: '_posts'
-#  siteurl: 'http://herbdool.github.io'
-#  relativeLinks: 'http://herbdool.github.io/links.jsonp'
+  siteurl: 'http://herbdool.github.io/'
+#  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
           value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -59,20 +50,11 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
     _posts/static:
       - name: "layout"
         field:
           element: "hidden"
           value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "permalink"
         field:
           element: "text"
