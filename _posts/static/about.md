@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+published: true
+permalink: /about
 ---
 
 <p class="message">
