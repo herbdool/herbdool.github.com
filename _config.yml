@@ -25,8 +25,8 @@ github:
 
 # Prose
 prose:
-  rooturl: ''
-  siteurl: 'http://herbdool.github.io/'
+#  rooturl: ''
+#  siteurl: 'http://herbdool.github.io/'
   relativeLinks: 'http://herbdool.github.io/links.jsonp'
   media: 'media'
   ignore:
