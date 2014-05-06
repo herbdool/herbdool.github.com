@@ -36,9 +36,14 @@ prose:
     - index.md
     - links.jsonp
     - atom.xml
+    - 404.html
+    - LICENSE.md
+    - README.md
+    - index.html
     - _config.yml
     - /_layouts
     - /_includes
+    - /public
     - /assets
     - /media
   metadata:
