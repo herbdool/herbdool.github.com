@@ -25,15 +25,22 @@ github:
 
 # Prose
 prose:
-  rooturl: '_posts'
+#  rooturl: '_posts'
   siteurl: 'http://herbdool.github.io/'
   relativeLinks: 'http://herbdool.github.io/links.jsonp'
   media: 'media'
   ignore:
+    - .editorconfig
+    - .gitignore
+    - CNAME
     - index.md
+    - links.jsonp
+    - atom.xml
     - _config.yml
     - /_layouts
     - /_includes
+    - /assets
+    - /media
   metadata:
     _posts:
       - name: "layout"
