@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Herb Dool
-tagline:          'A site for me'
-description:      'Testing github and jekyll.'
+title:            Herb v/d Dool
+tagline:          'Always a work in progress'
+description:      'A little about me.'
 url:              http://herbdool.github.io
 
 author:
-  name:           'Herb Dool'
+  name:           'Herb v/d Dool'
   url:            https://github.com/herbdool
 
 paginate:         5
@@ -58,10 +58,10 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Thought"
+              value: "thought"
+            - name: "Project"
+              value: "project"
 #    _posts/static:
 #      - name: "layout"
 #        field:
