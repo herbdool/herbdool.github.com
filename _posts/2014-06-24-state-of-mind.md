@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 ---
 
 ## It's a state of mind
