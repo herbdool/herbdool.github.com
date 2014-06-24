@@ -23,11 +23,13 @@ version:          0.1
 github:
   repo:           https://github.com/herbdool/herbdool.github.com
 
+#baseurl: 
+
 # Prose
 prose:
-#  rooturl: ''
-#  siteurl: 'http://herbdool.github.io/'
-  relativeLinks: 'http://herbdool.github.io/links.jsonp'
+  rooturl: '_posts'
+  siteurl: 'http://herb.3speedhub.com/'
+  relativeLinks: 'http://herb.3speedhub.com/links.jsonp'
   media: 'media'
   ignore:
     - .editorconfig
