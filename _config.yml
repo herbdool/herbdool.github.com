@@ -27,7 +27,7 @@ github:
 
 # Prose
 prose:
-  rooturl: '_posts'
+#  rooturl: '_posts'
   siteurl: 'http://herb.3speedhub.com/'
   relativeLinks: 'http://herb.3speedhub.com/links.jsonp'
   media: 'media'
