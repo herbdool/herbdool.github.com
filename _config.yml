@@ -23,7 +23,7 @@ version:          0.1
 github:
   repo:           https://github.com/herbdool/herbdool.github.com
 
-#baseurl: 
+baseurl: /
 
 # Prose
 prose:
