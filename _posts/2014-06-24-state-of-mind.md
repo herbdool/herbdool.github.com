@@ -1,6 +1,8 @@
 ---
 layout: blog
 published: false
+tags: 
+  - thought
 ---
 
 ## It's a state of mind
