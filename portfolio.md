@@ -6,7 +6,9 @@ published: true
 
 ## Who I've worked with
 
-I'm currently working full-time with [Freeform Solutions](http://freeform.ca) but I've also done contract Drupal work for a number of organizations including: [Dale & Lessmann LLP](http://dalelessmann.com), [Registered Nurses' Association of Ontario](http://rnao.ca/), [Frontiers Foundation](http://frontiersfoundation.ca), Centre for Addictions and Mental Health ([Scarborough Addiction Services Partnership](http://scarboroughaddictionservices.org), [Toronto Drug Treatment Court](http://tdtc.ca)), [Transport Futures](http://transportfutures.ca), [Paul Penna Downtown Jewish Day School](http://djds.ca), [Agricultural Employment](http://www.agriemploy.com/), [Cycle Toronto](http://cycleto.ca) (Drupal + CiviCRM) and my blog [I Bike TO](http://ibiketo.ca).
+I work for [Freeform Solutions](http://freeform.ca) but I also do contract Drupal work for a few businesses/organizations, including: [Dale & Lessmann LLP](http://dalelessmann.com), [Frontiers Foundation](http://frontiersfoundation.ca), [Transport Futures](http://transportfutures.ca), [Paul Penna Downtown Jewish Day School](http://djds.ca), [Agricultural Employment](http://www.agriemploy.com/), and my blog [I Bike TO](http://ibiketo.ca). [Send me a note](http://ibiketo.ca/contact) if you're interested.
+
+I've also previously done contract work for [Registered Nurses' Association of Ontario](http://rnao.ca/), Centre for Addictions and Mental Health ([Scarborough Addiction Services Partnership](http://scarboroughaddictionservices.org), [Toronto Drug Treatment Court](http://tdtc.ca)), and [Cycle Toronto](http://cycleto.ca) (Drupal + CiviCRM).
 
 ## Some examples
 
