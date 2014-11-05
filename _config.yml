@@ -4,12 +4,14 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Herb v/d Dool
 tagline:          'Always a work in progress'
 description:      'A little about me.'
 url:              http://herb.3speedhub.com
+baseurl:          /
 
 author:
   name:           'Herb v/d Dool'
