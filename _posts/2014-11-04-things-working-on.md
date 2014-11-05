@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 tags: 
   - project
 ---
@@ -18,4 +18,6 @@ I've had the chance to start using [Pantheon](http://getpantheon.com) for one of
 We've also started using [Beanstalk](http://beanstalkapp.com) to help with deployment on projects where we can't put them on something like Pantheon. This is the only way we've been able to use version control across all projects. There has been some resistance to this at work.
 
 ### Using Features and Configuration Management
-A key part of improving deployment is putting all configuration changes into code. For this we've been using [features](https://www.drupal.org/project/features) and have started using [configuration management](https://www.drupal.org/project/configuration). The latter is a Drupal 7 module that borrows heavily from the new Drupal 8 Configuration Management Initiative.
+A key part of improving deployment is putting all configuration changes into code instead of storing it all in the database, which is a big failing of Drupal. For this we've been using [features](https://www.drupal.org/project/features) and have started using [configuration management](https://www.drupal.org/project/configuration). Features is widely used so I don't feel the need to talk about it. The latter is a Drupal 7 module that borrows heavily from the new Drupal 8 Configuration Management Initiative, which is much better at helping with the deployment process than Features. The Drupal 7 module works fairly well but it suffers from a resource-intensive UI and from being a contributed module which can result in poor support from more obscure modules. Still it has drush commands which help quite a bit.
+
+All of these together have really helped improve my development.
