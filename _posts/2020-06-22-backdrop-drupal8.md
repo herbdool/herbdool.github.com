@@ -15,3 +15,5 @@ What's right for you? [Drupal 8](https://drupal.org) or [Backdrop CMS](https://b
 I hope to dive into my experiences and thinking a bit in the hope that it helps people navigate their own decisions. And provide some Drupal 7 to Backdrop CMS upgrades demos. There are already many Drupal 8 demos so I'll leave that to others.
 
 I'm fairly agnostic about the platforms. Each of them have strengths and weaknesses; there are things I love about both. I've been happy to work on Drupal 8 projects for some of our larger clients. But I've been contributing to Backdrop CMS quite a bit so that'll be a good part of my focus.
+
+More to come!
