@@ -1,11 +1,10 @@
 ---
 layout: post
+title: "Notable development tools and processes I've been working on"
 published: true
 tags: 
   - project
 ---
-
-## Notable development tools and processes I've been working on
 
 I've been working on a number of Drupal 6 to Drupal 7 upgrades. When it comes down to it, many of them take just as much work as an entirely new site. But I've been putting a lot of work into getting the firm I'm working for to adopt more efficient and resiliant deployment processes.
 
