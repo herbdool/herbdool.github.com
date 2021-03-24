@@ -1,13 +1,12 @@
 ---
 layout: post
+title: "Upgrading a website from Drupal 7 to Backdrop CMS"
 published: true
 tags: 
   - project
   - backdrop
   - drupal
 ---
-
-## Upgrading a website from Drupal 7 to Backdrop CMS
 
 I've created a short tutorial on [upgrading a website from Drupal 7 to Backdrop CMS](https://www.freeform.ca/upgrading-website-drupal-7-backdrop-cms) as part of my work with Freeform Solutions. I encourage you to [reach out](https://www.freeform.ca/form/inquiries) if you have any questions.
 
