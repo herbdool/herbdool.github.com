@@ -14,13 +14,13 @@ I've also previously done contract work for [Registered Nurses' Association of O
 
 ## Some examples
 
-![Dale & Lessmann LLP](/media/dalelessmann.png)
+<img src="/media/dalelessmann.png" alt="Dale and Lessmann LLP" style="width:100%"/>
 
 [Dale & Lessmann LLP](https://dalelessmann.com) - multilingual website for a law firm built on Drupal 7.
 
-![Agriculture Employment](/media/agemploy2.png)
+<img src="/media/agemploy2.png" alt="Agriculture Employment" style="width:100%"/>
 
-Agriculture Employment
+Agriculture Employment - a business website built on Backdrop CMS (upgraded from Drupal 7).
 
 ## Older examples
 
