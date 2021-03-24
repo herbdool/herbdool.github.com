@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Deciding if Drupal 8 or Backdrop CMS is right for a site"
 published: true
 tags: 
   - project
@@ -7,8 +8,6 @@ tags:
   - backdrop
   - drupal
 ---
-
-## Deciding if Drupal 8 or Backdrop CMS is right for a site.
 
 What's right for you? [Drupal 8](https://drupal.org) or [Backdrop CMS](https://backdropcms.org)? This is a question I've been trying to answer for a lot of clients. And it's a hard to answer since it really depends on the website, the organization, budget, and what stakeholders want to accomplish. And then there are the clients who are more comfortable with WordPress and want that, even without knowing whether it would even be a good fit for their website.
 
