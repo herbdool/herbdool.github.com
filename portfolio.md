@@ -6,7 +6,15 @@ published: true
 
 ## Who I've worked with
 
+### Freeform Solutions
+
 I work for [Freeform Solutions](https://freeform.ca) where've done work for a number of small and large clients, building Drupal 7, Drupal 8, Backdrop CMS and WordPress websites. I've also got a deep understanding of CiviCRM and have done a lot of work to make it work better on modern hosting containers.
+
+I've worked as a Project Manager and Scrum Master at Freeform Solutions. This means I've managed projects, both large and small, to ensure they have realistic plans that meet the client budgets. I've managed expectations and ensured that if budget is the primary concern of a client that everything else is flexible, from scope to timeline.
+
+As a Scrum Master, I've guided the developer team to write effective user stories and epics; and do realistic estimations (estimates are notoriously difficult). And I've educated product owners (aka the project manager and client stakeholders) on lowering expectations that the estimates will hold up, and to, instead, focus on an agile project management approach where we meet regularly to re-prioritize. Stories going off the rails? Work with the product owner to either delay or kill the stories. Or find ways to deliver it in stripped down approach.
+
+### Contract Work
 
 I also do contract Drupal work for a few businesses/organizations, including: [Dale & Lessmann LLP](https://dalelessmann.com), [Frontiers Foundation](http://frontiersfoundation.ca), [Transport Futures](http://transportfutures.ca), [Paul Penna Downtown Jewish Day School](http://djds.ca), [Agricultural Employment](http://www.agriemploy.com/), and my personal websites [I Bike TO](https://ibiketo.ca) and [Cargo Bikes in Canada](https://cargobike.ca).
 
